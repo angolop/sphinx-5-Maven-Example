@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: agonzalez
+Class-Path: Sphinx5_Maven_Example_lib/sphinx4-core-5prealpha-20160628.
+ 232526-10.jar Sphinx5_Maven_Example_lib/commons-math3-3.2.jar Sphinx5
+ _Maven_Example_lib/sphinx4-data-5prealpha-20160628.232535-10.jar
+Build-Jdk: 1.8.0_171
+Created-By: Maven Integration for Eclipse
+Main-Class: main.java.goxr3plus.sphinx5mavenexample.application.Main
+

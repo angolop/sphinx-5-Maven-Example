@@ -1,0 +1,13 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar
+ */
+
+grammar grammar;
+
+public <unit>  = unit id ;
+public <acknowledge>  = press nine to acknowledge ;
+public <alarm> = alarm code ;
+public <number> = zero | one | two | three | four | five | six | seven | nine ;
+public <Letters> = alpha | bravo | charlie | delta | echo | foxtrot ;
